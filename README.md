@@ -90,3 +90,6 @@ This project also demonstrates strong skills in frontend development, UI/UX desi
 
 🔗 GitHub Repository:
 [https://github.com/abdulkashim444-lgtm/quiz-with-ak](https://github.com/abdulkashim444-lgtm/quiz-with-abdulkasim/blob/main/README.md)
+
+
+<img width="1858" height="1007" alt="Image" src="https://github.com/user-attachments/assets/4db18c7c-af5f-4715-a108-af72ada749ef" />
