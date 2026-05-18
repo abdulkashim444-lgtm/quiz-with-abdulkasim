@@ -89,4 +89,4 @@ The goal of Quiz with AK is to create a learning platform that feels more like a
 This project also demonstrates strong skills in frontend development, UI/UX design, animation systems, responsive web development, and interactive JavaScript functionality. 🚀💜
 
 🔗 GitHub Repository:
-https://github.com/abdulkashim444-lgtm/quiz-with-ak
+[https://github.com/abdulkashim444-lgtm/quiz-with-ak](https://github.com/abdulkashim444-lgtm/quiz-with-abdulkasim/blob/main/README.md)
